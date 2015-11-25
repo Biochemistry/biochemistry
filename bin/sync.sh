@@ -11,5 +11,5 @@ git checkout develop && git merge upstream/develop;
 git checkout $branch;
 
 if [ $branch != "master" -a $branch != "develop" ]
-then echo "You may now merge develop into your current branch."
+then echo "You may now merge develop into your current branch.";
 fi
