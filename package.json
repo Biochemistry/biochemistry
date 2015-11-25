@@ -1,0 +1,48 @@
+{
+  "author": {
+    "email": "webmaster@christiangrete.com",
+    "name": "Christian Grete",
+    "url": "https://christiangrete.com"
+  },
+  "bugs": {
+    "email": "webmaster@christiangrete.com",
+    "url": "https://github.com/Biochemistry/biochemistry/issues"
+  },
+  "contributors": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "A style guide generator for atomic design systems",
+  "devDependencies": {},
+  "files": [
+    "dist/**/*"
+  ],
+  "homepage": "https://github.com/Biochemistry/biochemistry",
+  "keywords": [
+    "atomic",
+    "design",
+    "generator",
+    "mustache",
+    "node"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "maintainers": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "name": "biochemistry",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Biochemistry/biochemistry.git"
+  },
+  "version": "0.0.0"
+}
