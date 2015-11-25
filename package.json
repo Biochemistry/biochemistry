@@ -39,7 +39,7 @@
     }
   ],
   "name": "biochemistry",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git://github.com/Biochemistry/biochemistry.git"
