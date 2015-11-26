@@ -2,4 +2,4 @@
 
 cd "$( dirname "$0" )/.."
 
-npm cache clean && npm install
+node tasks/watch.js $*
