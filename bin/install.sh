@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cd "$( dirname "$0" )/..";
+cd "$( dirname "$0" )/.."
 
-npm cache clean && npm install;
+npm cache clean && npm install
